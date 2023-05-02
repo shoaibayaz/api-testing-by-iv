@@ -1,3 +1,5 @@
+# Read SETUP.md file before setup
+
 Hello dear web portal dev prospect!
 
 This repository is a playground for your submission which should use PHP in the backend and HTML/JS in the frontend.
